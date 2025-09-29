@@ -153,8 +153,7 @@
     <li>Incorporating additional prenatal features like maternal health data for enhanced predictions.</li>
 </ul>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+
 
 </body>
 </html>
